@@ -1,0 +1,24 @@
+# Datasets
+data/
+datasets/
+
+# Model weights
+*.pth
+*.h5
+*.ckpt
+*.pkl
+
+# Outputs
+outputs/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
